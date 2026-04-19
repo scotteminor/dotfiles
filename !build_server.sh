@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # -- This build script should be run as root.
 DNF_UPDATE=1
 
